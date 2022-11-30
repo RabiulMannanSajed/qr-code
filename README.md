@@ -10,13 +10,11 @@ https://grand-kleicha-d53ac2.netlify.app
 * Tailwind 
 * daisyUI
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [https://grand-kleicha-d53ac2.netlify.app](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+Here the Live link of the Site Click [https://grand-kleicha-d53ac2.netlify.app](http://localhost:3000) to view it in your browser.
+
+
  
 ### `npm test`
 
