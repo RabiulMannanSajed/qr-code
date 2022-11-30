@@ -2,6 +2,8 @@
 * Github link =>
 https://github.com/RabiulMannanSajed/qr-code
 
+* Live Link => 
+https://grand-kleicha-d53ac2.netlify.app
 # Use tools
 
 * React js
@@ -11,7 +13,7 @@ https://github.com/RabiulMannanSajed/qr-code
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Open [https://grand-kleicha-d53ac2.netlify.app](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
 You may also see any lint errors in the console.
