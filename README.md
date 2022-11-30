@@ -1,8 +1,8 @@
 # QR-Code 
-
+*Github link
 https://github.com/RabiulMannanSajed/qr-code
 
-## Available Scripts
+# Use tools
 
 In the project directory, you can run:
 
