@@ -1,10 +1,12 @@
 # QR-Code 
-*Github link
+* Github link =>
 https://github.com/RabiulMannanSajed/qr-code
 
 # Use tools
 
-In the project directory, you can run:
+* React js
+* Tailwind 
+* daisyUI
 
 ### `npm start`
 
